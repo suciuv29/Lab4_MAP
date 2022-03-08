@@ -1,0 +1,19 @@
+[ {
+  "name" : "DB",
+  "lehrer" : 1,
+  "maximaleAnzahlStudenten" : 10,
+  "listeStudenten" : [ 1 ],
+  "ects" : 6,
+  "id" : 1,
+  "anzahlFreienPlatze" : 9,
+  "tFrei" : true
+}, {
+  "name" : "MAP",
+  "lehrer" : 2,
+  "maximaleAnzahlStudenten" : 15,
+  "listeStudenten" : [ 1 ],
+  "ects" : 6,
+  "id" : 2,
+  "anzahlFreienPlatze" : 14,
+  "tFrei" : true
+} ]

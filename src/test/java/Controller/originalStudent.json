@@ -1,0 +1,17 @@
+[ {
+  "vorname" : "Dariana",
+  "nachname" : "Beckham",
+  "studentID" : 423,
+  "totalKredits" : 0,
+  "angeschriebeneKurse" : [ ],
+  "notwendigeKredits" : 30,
+  "anzahlKurse" : 0
+}, {
+  "vorname" : "Anabella",
+  "nachname" : "Pop",
+  "studentID" : 1,
+  "totalKredits" : 30,
+  "angeschriebeneKurse" : [ 800 ],
+  "notwendigeKredits" : 0,
+  "anzahlKurse" : 1
+} ]

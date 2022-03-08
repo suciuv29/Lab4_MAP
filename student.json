@@ -1,0 +1,33 @@
+[ {
+  "vorname" : "Bogdan",
+  "nachname" : "Todiras",
+  "studentID" : 2,
+  "totalKredits" : 0,
+  "angeschriebeneKurse" : [ ],
+  "notwendigeKredits" : 30,
+  "anzahlKurse" : 0
+}, {
+  "vorname" : "Ioana",
+  "nachname" : "Tincu",
+  "studentID" : 3,
+  "totalKredits" : 0,
+  "angeschriebeneKurse" : [ ],
+  "notwendigeKredits" : 30,
+  "anzahlKurse" : 0
+}, {
+  "vorname" : "Daria",
+  "nachname" : "Radu",
+  "studentID" : 1,
+  "totalKredits" : 12,
+  "angeschriebeneKurse" : [ 1, 2 ],
+  "notwendigeKredits" : 18,
+  "anzahlKurse" : 2
+}, {
+  "vorname" : "Suciu Vlad",
+  "nachname" : "Calin",
+  "studentID" : 4,
+  "totalKredits" : 0,
+  "angeschriebeneKurse" : [ ],
+  "notwendigeKredits" : 30,
+  "anzahlKurse" : 0
+} ]

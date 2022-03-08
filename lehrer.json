@@ -1,0 +1,16 @@
+[ {
+  "vorname" : "Diana",
+  "nachname" : "Cristea",
+  "kurse" : [ 1 ],
+  "lehrerID" : 1
+}, {
+  "vorname" : "Catalin",
+  "nachname" : "Rusu",
+  "kurse" : [ 3 ],
+  "lehrerID" : 2
+}, {
+  "vorname" : "Sommer",
+  "nachname" : "Inge",
+  "kurse" : [ 1, 2, 3, 4 ],
+  "lehrerID" : 3
+} ]

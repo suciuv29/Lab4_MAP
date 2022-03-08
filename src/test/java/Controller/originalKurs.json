@@ -1,0 +1,28 @@
+[ {
+  "name" : "DB",
+  "lehrer" : 1,
+  "maximaleAnzahlStudenten" : 300,
+  "listeStudenten" : [ ],
+  "ects" : 26,
+  "id" : 1,
+  "tFrei" : true,
+  "anzahlFreienPlatze" : 300
+}, {
+  "name" : "MAP",
+  "lehrer" : 2,
+  "maximaleAnzahlStudenten" : 0,
+  "listeStudenten" : [ 2, 3 ],
+  "ects" : 5,
+  "id" : 2,
+  "tFrei" : false,
+  "anzahlFreienPlatze" : -2
+}, {
+  "name" : "DSA",
+  "lehrer" : 1,
+  "maximaleAnzahlStudenten" : 30,
+  "listeStudenten" : [ 3, 4 ],
+  "ects" : 4,
+  "id" : 3,
+  "tFrei" : true,
+  "anzahlFreienPlatze" : 28
+} ]
